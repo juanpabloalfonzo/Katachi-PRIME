@@ -15,11 +15,11 @@ By utilizing Vision Transformers (ViT) to extract morphological spatial embeddin
 
 This repository contains the core training and plotting scripts used to generate the results in the paper.
 
-*   **`Katachi_Prime_data_download.py`**: Python script to retrieve the massive pre-trained weights, true SFHs, and posterior summaries from the Tohoku University data server.
+*   **`Katachi_Prime_data_download.py`**: Python script to retrieve the massive pre-trained weights, true SFHs, and posterior summaries.
 *   **`Katachi_PRIME_Downloader.sh`**: Alternative bash script for users who prefer `wget` over Python for data retrieval.
 *   **`vit_trainer_release.ipynb`**: Notebook detailing the Vision Transformer architecture and the training pipeline for extracting the 768-D morphological embeddings.
 *   **`train_ili_release.ipynb`**: Notebook for configuring the Normalizing Flows, setting up the `ltu-ili` inference engine, and training the density estimators on the multi-modal inputs.
-*   **`Katachi_PRIME_paper_plots_final.ipynb`**: The master notebook for recreating all primary manuscript figures, including the degeneracy corner plots, TARP calibration curves, and the two-timescale toy models for continuous memory.
+*   **`Katachi_PRIME_paper_plots_final.ipynb`**: The master notebook for recreating all primary manuscript figures.
 
 ## Getting Started
 
