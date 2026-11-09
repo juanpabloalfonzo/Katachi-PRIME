@@ -1,7 +1,7 @@
 # Katachi-PRIME (形')
 **Is Morphology All You Need?
 Quantifying Imprints of Past Star Formation in the Present-Day Morphologies of Galaxies**
-[![arXiv](https://img.shields.io/badge/arXiv-[UPDATE_WITH_LINK]-b31b1b.svg)](https://arxiv.org/abs/[UPDATE_WITH_ID])
+[![arXiv](https://img.shields.io/badge/arXiv-[https://arxiv.org/abs/2611.07373]-b31b1b.svg)](https://arxiv.org/abs/[2611.07373])
 
 **Using Morphology + Photometry for Galaxy Physical Property Inference**
 
